@@ -1,7 +1,7 @@
 export const lang = {
     en: {
         search: "Search",
-        placeholder:"What would you like to watcg today?"
+        placeholder:"What would you like to watch today?"
     },
     hindi: {
         search: "खोजे",
